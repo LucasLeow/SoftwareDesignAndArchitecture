@@ -14,7 +14,7 @@ Proper software development design and planning is crucial in the journey of pro
 
 ---
 
-- SDLC (2024) - Software Development Life Cycle SDLC
-- The Project Management Course: Beginner to PROject Manager
-- SOLID Principles: Introducing Software Architecture & Design
-- The Complete Guide to Becoming a Software Architect
+1. SDLC (2024) - Software Development Life Cycle SDLC
+1. The Project Management Course: Beginner to PROject Manager
+1. SOLID Principles: Introducing Software Architecture & Design
+1. The Complete Guide to Becoming a Software Architect
